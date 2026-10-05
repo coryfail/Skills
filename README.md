@@ -1,4 +1,7 @@
-# Application Map
+# Skills
+
+This repository is the personal collection of Codex skills, including the
+Application Map skill below.
 
 A personal Codex skill for documenting and reverse-engineering existing web
 applications. It maps a whole application, a named module, or a specific page;
@@ -18,7 +21,7 @@ To install it into your personal Codex skills directory from the published
 GitHub repository (requires Node.js and npm):
 
 ```sh
-npx skills add https://github.com/coryfail/AppMap --skill application-map --agent codex -g
+npx skills add https://github.com/coryfail/Skills --skill application-map --agent codex -g
 ```
 
 A useful starting request is:
